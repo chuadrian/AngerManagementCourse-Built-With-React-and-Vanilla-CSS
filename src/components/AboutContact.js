@@ -59,17 +59,17 @@ const AboutContact = ({ onClose }) => {
                 <h3>Our Team</h3>
                 <div className="team-members">
                   <div className="team-member">
-                    <img src="/placeholder.svg?height=100&width=100" alt="Dr. Emily Chen" />
+                    <img src="/placeholder.svg?height=100&width=100" alt="unknown" />
                     <h4>Adrian Chukwuji</h4>
                     <p>Project Psychologist</p>
                   </div>
                   <div className="team-member">
-                    <img src="/placeholder.svg?height=100&width=100" alt="Mark Johnson" />
+                    <img src="/placeholder.svg?height=100&width=100" alt="unknown" />
                     <h4>Adrian Chukwuji</h4>
                     <p>Mood Expert</p>
                   </div>
                   <div className="team-member">
-                    <img src="/placeholder.svg?height=100&width=100" alt="Sarah Williams" />
+                    <img src="/placeholder.svg?height=100&width=100" alt="unknown" />
                     <h4>Adrian Chukwuji</h4>
                     <p>Frontend Developer</p>
                   </div>
